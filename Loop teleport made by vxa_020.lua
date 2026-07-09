@@ -1,3 +1,466 @@
--- Obfuscated with idk, I just found a random obsf
--- made by vxa_020 
-local __0x78s={"\30\238\7\18\58\145\0\213\115\8\239","\25\251\41\40\49\158\3\219\122\9","\30","\50\243","\30","\50\242","\30","\50\241","\25\251\41\41\58\147\0\206","\25\251\41\53","\25\251\41\52","\25\251\41\55","\25\251\41\41\58\147\0\206","\64\186\70\116\106\209\83\143","\91\187\88\121","\64\189\88\124\105","\46\228\24\43\54\152\65\212\112\29\226\19\41\127\139\14\151\124\1\226\6\47\48\158\19\211\62","\32\234\2\46\55\158\65\227\122\1\238\6\34\45\139\4\197","\4\230\6\34\45\139\62\213\112\21","\43\234\31\33\58\155\65\195\112\77\248\23\59\58\223\2\216\113\11\226\17\108","\32\234\2\46\55\158\65\227\122\1\238\6\34\45\139\4\197","\25\251\41\53","\64\186\70\116\106\209\83\143","\25\251\41\52","\91\187\88\121","\25\251\41\55","\64\189\88\124\105","\25\251\41\41\58\147\0\206","\25\251\41\32\48\155\4","\25\251\41\62\43\154\17\232\123\4\248\2","\25\251\41\35\48\139\8\209\118\14\234\2\36\48\145\18","\37\255\2\61\12\154\19\193\118\14\238","\61\231\23\52\58\141\18","\61\234\5\57\58\223\2\216\113\11\226\17\109\43\154\25\195\63\4\229\2\34\127\139\9\210\63\15\228\14\109\57\150\19\196\107\67","\32\234\2\46\55\158\65\227\122\1\238\6\34\45\139\4\197","\25\251\41\53","\64\186\70\116\106\209\83\143","\25\251\41\52","\91\187\88\121","\25\251\41\55","\64\189\88\124\105","\25\251\41\41\58\147\0\206","\25\251\41\32\48\155\4","\25\251\41\62\43\154\17\232\123\4\248\2","\25\251\41\35\48\139\8\209\118\14\234\2\36\48\145\18","\25\234\20\33\58","\30","\50\243","\30","\50\242","\30","\50\241","\62\238\2\57\54\145\6\196\63\1\228\23\41\58\155\64","\32\234\2\46\55\158\65\227\122\1\238\6\34\45\139\4\197","\47\234\18\109\60\144\15\209\118\10\171\18\44\43\158\64","\32\234\2\46\55\158\65\227\122\1\238\6\34\45\139\4\197","\37\255\2\61\12\154\19\193\118\14\238","\57\238\26\40\47\144\19\195\122\31","\46\228\24\43\54\152","\33\238\16\57","\62\226\24\42\51\154","\62\238\7\56\58\145\2\210","\62\238\2\57\54\145\6\196","\61\231\23\52\58\141\18\151\57\77\221\31\62\42\158\13\196","\61\231\23\57\57\144\19\218","\25\251\41\40\49\158\3\219\122\9","\44\249\27\109\19\144\14\199\63\57\238\26\40\47\144\19\195","\25\251\41\38\58\134\3\222\113\9","\25\228\17\42\51\154","\33\228\25\61\127\171\4\219\122\29\228\4\57","\25\251\41\40\49\158\3\219\122\9","\42\249\23\47\127\188\20\197\109\8\229\2\109\15\144\18\222\107\4\228\24","\25\251\41\53","\72\165\68\43","\25\251\41\52","\72\165\68\43","\25\251\41\55","\72\165\68\43","\25\251\41\53","\53\171\53\34\48\141\5\222\113\12\255\19","\64\186\70\116\106\209\83\143","\25\251\41\52","\52\171\53\34\48\141\5\222\113\12\255\19","\91\187\88\121","\25\251\41\55","\55\171\53\34\48\141\5\222\113\12\255\19","\64\189\88\124\105","\30\238\7\18\58\145\0\213\115\8\239","\44\249\27\109\12\154\16\194\122\3\232\19\109\11\154\13\210\111\2\249\2","\30\238\7\18\52\154\24\213\118\3\239","\25\228\17\42\51\154","\62\238\7\56\58\145\2\210\63\57\219","\30\238\7\18\58\145\0\213\115\8\239","\63\238\5\40\43\223\50\210\110\24\238\24\46\58\223\49\197\112\10\249\19\62\44\150\14\217","\61\234\2\37\127\141\4\196\122\25\171\20\44\60\148\65\195\112\77\220\23\52\47\144\8\217\107\77\186","\32\234\2\46\55\158\65\227\122\1\238\6\34\45\139\4\197","\44\239\18\109\8\158\24\199\112\4\229\2","\93\165\70\125","\93\165\70\125","\93\165\70\125","\63\238\27\34\41\154\65\251\126\30\255\86\26\62\134\17\216\118\3\255","\42\249\23\47\127\168\0\206\111\2\226\24\57\127","\72\165\68\43","\72\165\68\43","\72\165\68\43","\30","\50\243","\30","\50\242","\30","\50\241","\30","\50\243","\53","\30","\50\242","\52","\30","\50\241","\55","\25\251\41\41\58\147\0\206","\58\234\31\57\127\189\4\195\104\8\238\24\109\11\154\13\210\111\2\249\2\62","\72\165\68\43\44","\25\251\41\32\48\155\4","\57\238\26\40\47\144\19\195\63\32\238\2\37\48\155","\36\229\5\57\62\145\21","\44\229\2\36\114\188\9\210\126\25\171\52\52\47\158\18\196\63\69\216\2\40\47\214","\25\251\41\62\43\154\17\232\123\4\248\2","\47\242\6\44\44\140\65\228\107\8\251\86\30\43\138\5\196","\25\251\41\35\48\139\8\209\118\14\234\2\36\48\145\18","\35\228\2\36\57\134\65\216\113\77\193\3\32\47\140","\46\228\24\43\54\152\20\197\126\25\226\25\35\127\178\0\217\126\10\238\27\40\49\139","\46\228\6\52\127\188\14\217\121\4\236","\4\230\6\34\45\139\62\213\112\21","\61\234\5\57\58\223\34\216\113\11\226\17\109\23\154\19\210","\36\230\6\34\45\139\65\244\112\3\237\31\42","\4\230\6\34\45\139\62\213\112\21","\58\234\15\61\48\150\15\195\63\59\226\5\56\62\147\8\205\122\31","\30\227\25\58\0\137\8\196\106\12\231\31\55\58\141","\62\227\25\58\127\168\0\206\111\2\226\24\57\44\223\46\217\63\62\232\4\40\58\145","\31\234\31\35\61\144\22\232\104\29","\63\234\31\35\61\144\22\151\72\12\242\6\34\54\145\21\196","\26\251\41\46\47","\61\231\23\52\58\141\65\227\122\1\238\6\34\45\139\4\197","\29\231\23\52\58\141\62\219\118\30\255","\62\238\26\40\60\139\65\231\115\12\242\19\63","\35\228\24\40","\63\238\16\63\58\140\9\151\79\1\234\15\40\45\140","\35\228\24\40","\61\231\23\52\58\141\65\219\118\30\255\86\56\47\155\0\195\122\9\170","\32\234\2\46\55\158","\57\238\26\40\47\144\19\195\63\25\228\86\29\51\158\24\210\109","\35\228\24\40","\61\231\23\52\58\141\65\222\108\77\239\19\44\59\223\14\197\63\3\228\2\109\57\144\20\217\123\76","\40\249\4\34\45","\61\231\19\44\44\154\65\196\122\1\238\21\57\127\158\65\199\115\12\242\19\63\127\153\8\197\108\25\165","\40\249\4\34\45","\44\226\4\26\62\147\10\151\79\1\234\2\43\48\141\12","\46\249\19\44\43\154\18\151\126\77\248\25\33\54\155\65\209\115\2\228\4\109\42\145\5\210\109\3\238\23\57\55\223\24\216\106\77\248\25\109\38\144\20\151\123\2\229\81\57\127\153\0\219\115\77\226\24\57\48\223\21\223\122\77\253\25\36\59\209","\29\231\23\57\0\154\15\214\125\1\238\18","\40\229\23\47\51\154\65\231\115\12\255\16\34\45\146","\29\231\23\57\0\156\17","\29\231\23\57\0\140\8\205\122","\61\231\23\57\57\144\19\218\63\62\226\12\40","\31\234\31\35\61\144\22\232\104\29","\30\227\25\58\0\137\8\196\106\12\231\31\55\58\141","\57\238\14\57","\30","\50\243","\30","\50\242","\30","\50\241","\37\254\27\44\49\144\8\211\77\2\228\2\29\62\141\21","\29\231\23\57\0\154\15\214\125\1\238\18","\61\234\4\57","\32\234\2\46\55\158\49\219\126\25\237\25\63\50","\58\228\4\38\44\143\0\212\122","\29\231\23\57\0\140\8\205\122","\37\254\27\44\49\144\8\211","\37\254\27\44\49\144\8\211\77\2\228\2\29\62\141\21","\25\251\41\32\48\155\4","\25\251\41\35\48\139\8\209\118\14\234\2\36\48\145\18","\57\238\26\40\47\144\19\195\63\11\226\24\36\44\151\4\211\62","\32\234\2\46\55\158\65\227\122\1\238\6\34\45\139\4\197","\25\251\41\62\43\154\17\232\123\4\248\2","\25\251\41\40\49\158\3\219\122\9","\30\238\7\18\58\145\0\213\115\8\239","\25\251\41\40\49\158\3\219\122\9","\30\238\7\18\58\145\0\213\115\8\239","\25\251\41\35\48\139\8\209\118\14\234\2\36\48\145\18","\57\238\26\40\47\144\19\195\63\11\226\24\36\44\151\4\211\62","\32\234\2\46\55\158\65\227\122\1\238\6\34\45\139\4\197"};local __0x79k={109,139,118,77,95,255,97,183,31};local function __0x77d(__0x86i) local __0x7be=__0x78s[__0x86i];local __0x7co={};for __0x7aj=1,#__0x7be do local __0x7db=string.byte(__0x7be,__0x7aj);local __0x7ec=__0x79k[(__0x7aj - 1) % #__0x79k + 1];local __0x81a,__0x82f=__0x7db,__0x7ec;local __0x7fr,__0x80p=0,1;for __0x83q=0,7 do local __0x84u,__0x85v=__0x81a % 2,__0x82f % 2;if __0x84u ~= __0x85v then __0x7fr=__0x7fr + __0x80p end;__0x81a=(__0x81a - __0x84u) / 2;__0x82f=(__0x82f - __0x85v) / 2;__0x80p=__0x80p * 2 end;__0x7co[__0x7aj]=string.char(__0x7fr) end;return table.concat(__0x7co) end;local _0x0,_0x1,_0x2,_0x3,_0x4,_0x6d,_0x5,_0x6,_0x7,_0x8,_0x9,_0xa,_0xb,_0xd,_0x10,_0x16,_0x1e,_0x23;local _0x76=4;while true do if _0x76 == 82 then _0x6={};_0x76=89 elseif _0x76 == 29 then _0x2=nil;_0x76=36 elseif _0x76 == 190 then task.spawn(function() while true do task.wait();local _0x1d=UI.GetValue(__0x77d(1)) and (_0x3 and _0x3:IsEnabled());local _0x1c=UI.GetValue(__0x77d(2)) and (_0x2 and _0x2:IsEnabled());if _0x1d then local _0x47={};for _0x26=2 - 1,#_0x4 do local _0x3c=tonumber(UI.GetValue(__0x77d(3) .. _0x26 .. __0x77d(4))) or tonumber(_0x4[_0x26].x) or 1 - 1;local _0x3d=tonumber(UI.GetValue(__0x77d(5) .. _0x26 .. __0x77d(6))) or tonumber(_0x4[_0x26].y) or 1 - 1;local _0x3e=tonumber(UI.GetValue(__0x77d(7) .. _0x26 .. __0x77d(8))) or tonumber(_0x4[_0x26].z) or 1 - 1;table.insert(_0x47,Vector3.new(_0x3c,_0x3d,_0x3e)) end;if _0x5 > #_0x47 or _0x5 < 2 - 1 then _0x5=2 - 1 end;local _0x12=_0x47[_0x5];if _0x12 then if _0xd(_0xb(),_0x12) <= 4 + 1 then _0x5=_0x5 + (2 - 1);if _0x5 > #_0x47 then _0x5=2 - 1 end else local _0x48=_0x16(_0x12);if _0x48 then local _0x49=UI.GetValue(__0x77d(9)) or 2 - 1;task.wait(_0x49);_0x5=_0x5 + (2 - 1);if _0x5 > #_0x47 then _0x5=2 - 1 end end end end elseif _0x1c then local _0x4a=tonumber(UI.GetValue(__0x77d(10))) or -1095.28;local _0x4b=tonumber(UI.GetValue(__0x77d(11))) or 60.4;local _0x4c=tonumber(UI.GetValue(__0x77d(12))) or -6.16;local _0x48=_0x16(Vector3.new(_0x4a,_0x4b,_0x4c));if _0x48 then local _0x49=UI.GetValue(__0x77d(13)) or 2 - 1;task.wait(_0x49) end end end end);_0x76=209 elseif _0x76 == 110 then _0xa=nil;_0x76=114 elseif _0x76 == 58 then _0x4={{x=__0x77d(14),y=__0x77d(15),z=__0x77d(16)}};_0x76=66 elseif _0x76 == 155 then _0x1e=function() local _0x1f,_0x20,_0x21,_0x22;local _0x74=4;while true do if _0x74 == 12 then if 1 > 2 then local _0x5a=nil end;_0x74=16 elseif _0x74 == 31 then _0x21,_0x22=pcall(function() return _0x1f:JSONEncode(_0x20) end);_0x74=38 elseif _0x74 == 38 then if _0x21 then setclipboard(_0x22);notify(__0x77d(17),__0x77d(18),2 + 0);UI.SetValue(__0x77d(19),_0x22) else if false then local _0x59=nil end;notify(__0x77d(20),__0x77d(21),1 + 1) end;_0x74=58 elseif _0x74 == 24 then do local _0x5b=263 end;_0x74=31 elseif _0x74 == 16 then _0x20={tp_x=UI.GetValue(__0x77d(22)) or __0x77d(23),tp_y=UI.GetValue(__0x77d(24)) or __0x77d(25),tp_z=UI.GetValue(__0x77d(26)) or __0x77d(27),tp_delay=UI.GetValue(__0x77d(28)) or 2 - 1,tp_mode=UI.GetValue(__0x77d(29)) or 1 - 1,tp_step_dist=UI.GetValue(__0x77d(30)) or 2 * 10 + 0,tp_notifications=UI.GetValue(__0x77d(31)) or false,wp_r=_0x7.R,wp_g=_0x7.G,wp_b=_0x7.B,plat_r=_0x8.R,plat_g=_0x8.G,plat_b=_0x8.B,waypoints=_0x4};_0x74=24 elseif _0x74 == 4 then _0x1f=game:GetService(__0x77d(32));_0x74=12 else break end end end;_0x76=163 elseif _0x76 == 95 then _0x8=Color3.fromRGB(143 + 10,12 * 4 + 3,113 + 142);_0x76=101 elseif _0x76 == 114 then _0xb=function() local _0xc;local _0x71=2;while true do if _0x71 == 12 then _0xc=_0x1.Character;_0x71=17 elseif _0x71 == 25 then return Vector3.new(1 - 1,1 - 1,1 - 1) elseif _0x71 == 2 then do local _0x4d=231 end;_0x71=12 elseif _0x71 == 17 then if _0xc and _0xc.PrimaryPart then return _0xc.PrimaryPart.Position end;_0x71=25 else break end end end;_0x76=122 elseif _0x76 == 122 then _0xd=function(_0xe,_0xf) return _0xe - _0xf.Magnitude end;_0x76=128 elseif _0x76 == 145 then if false then local _0x6f=nil end;_0x76=148 elseif _0x76 == 101 then _0x9=nil;_0x76=110 elseif _0x76 == 75 then _0x5=2 - 1;_0x76=82 elseif _0x76 == 4 then _0x0=game:GetService(__0x77d(33));_0x76=10 elseif _0x76 == 177 then do local _0x70=982 end;_0x76=185 elseif _0x76 == 23 then do local _0x6a=835 end;_0x76=29 elseif _0x76 == 66 then _0x6d=(71 + 0) * 1;_0x76=75 elseif _0x76 == 89 then _0x7=Color3.fromRGB(1 - 1,103 + 152,1 - 1);_0x76=95 elseif _0x76 == 10 then do local _0x69=235 end;_0x76=18 elseif _0x76 == 128 then if 1 > 2 then local _0x6e=nil end;_0x76=138 elseif _0x76 == 163 then _0x23=function(_0x24) local _0x1f,_0x67,_0x21,_0x25,_0x68;local _0x75=2;while true do if _0x75 == 38 then _0x68=math.random() * 0;_0x75=62 elseif _0x75 == 15 then _0x67=math.random() * 0;_0x75=24 elseif _0x75 == 24 then _0x21,_0x25=pcall(function() return _0x1f:JSONDecode(_0x24) end);_0x75=31 elseif _0x75 == 11 then if not _0x24 or _0x24 == "" then do local _0x5c=903 end;notify(__0x77d(34),__0x77d(35),2 + 0);do local _0x5d=482 end;return end;_0x75=15 elseif _0x75 == 31 then if _0x21 and _0x25 then UI.SetValue(__0x77d(36),tostring(_0x25.tp_x or __0x77d(37)));if 1 > 2 then local _0x62=nil end;UI.SetValue(__0x77d(38),tostring(_0x25.tp_y or __0x77d(39)));UI.SetValue(__0x77d(40),tostring(_0x25.tp_z or __0x77d(41)));local _0x63=(36 + 0) * 1;UI.SetValue(__0x77d(42),tonumber(_0x25.tp_delay) or 2 - 1);UI.SetValue(__0x77d(43),tonumber(_0x25.tp_mode) or 1 - 1);UI.SetValue(__0x77d(44),tonumber(_0x25.tp_step_dist) or 24 + 2 - 6);UI.SetValue(__0x77d(45),not not _0x25.tp_notifications);if false then local _0x64=nil end;if _0x25.wp_r then _0x7=Color3.new(_0x25.wp_r,_0x25.wp_g,_0x25.wp_b) end;local _0x65=(80 + 0) * 1;if _0x25.plat_r then _0x8=Color3.new(_0x25.plat_r,_0x25.plat_g,_0x25.plat_b) end;if _0x25.waypoints and type(_0x25.waypoints) == __0x77d(46) then for _0x26=#_0x25.waypoints + (2 - 1),#_0x6 do if _0x6[_0x26] then if 1 > 2 then local _0x5e=nil end;pcall(function() _0x6[_0x26]:Remove() end);if 1 > 2 then local _0x5f=nil end;_0x6[_0x26]=nil end end;_0x4=_0x25.waypoints;for _0x26,_0x27 in ipairs(_0x4) do UI.SetValue(__0x77d(47) .. _0x26 .. __0x77d(48),tostring(_0x27.x));UI.SetValue(__0x77d(49) .. _0x26 .. __0x77d(50),tostring(_0x27.y));UI.SetValue(__0x77d(51) .. _0x26 .. __0x77d(52),tostring(_0x27.z));if 1 > 2 then local _0x60=nil end end;local _0x61=math.random() * 0 end;notify(__0x77d(53),__0x77d(54),2 + 2 - 2) else local _0x66=(47 + 0) * 1;notify(__0x77d(55),__0x77d(56),1 + 1) end;_0x75=38 elseif _0x75 == 2 then _0x1f=game:GetService(__0x77d(57));_0x75=11 else break end end end;_0x76=172 elseif _0x76 == 172 then UI.AddTab(__0x77d(58),function(_0x28) local _0x29=_0x28:Section(__0x77d(59),__0x77d(60),{__0x77d(61),__0x77d(62),__0x77d(63),__0x77d(64),__0x77d(65)});if _0x29.page == 1 - 1 then _0x29:Toggle(__0x77d(66),__0x77d(67),false);_0x2=_0x29:Keybind(__0x77d(68),8 * 10 + 4,__0x77d(69));_0x2:AddToHotkey(__0x77d(70),__0x77d(71));_0x29:Spacing();_0x29:Button(__0x77d(72),function() local _0x2a=_0xb();UI.SetValue(__0x77d(73),string.format(__0x77d(74),_0x2a.X));UI.SetValue(__0x77d(75),string.format(__0x77d(76),_0x2a.Y));UI.SetValue(__0x77d(77),string.format(__0x77d(78),_0x2a.Z)) end);_0x29:InputText(__0x77d(79),__0x77d(80),__0x77d(81));_0x29:InputText(__0x77d(82),__0x77d(83),__0x77d(84));_0x29:InputText(__0x77d(85),__0x77d(86),__0x77d(87)) elseif _0x29.page == 2 - 1 then _0x29:Toggle(__0x77d(88),__0x77d(89),false);_0x3=_0x29:Keybind(__0x77d(90),12 + 118 - 46,__0x77d(91));_0x3:AddToHotkey(__0x77d(92),__0x77d(93));_0x29:Spacing();_0x29:Button(__0x77d(94),function() _0x5=2 - 1;notify(__0x77d(95),__0x77d(96),2 - 1) end);_0x29:Spacing();_0x29:Button(__0x77d(97),function() table.insert(_0x4,{x=__0x77d(98),y=__0x77d(99),z=__0x77d(100)}) end);_0x29:Button(__0x77d(101),function() if #_0x4 > 2 - 1 then if _0x6[#_0x4] then pcall(function() _0x6[#_0x4]:Remove() end);_0x6[#_0x4]=nil end;table.remove(_0x4) end end);for _0x26,_0x27 in ipairs(_0x4) do _0x29:Spacing();_0x29:Button(__0x77d(102) .. _0x26,function() local _0x2a=_0xb();local _0x2b=string.format(__0x77d(103),_0x2a.X);local _0x2c=string.format(__0x77d(104),_0x2a.Y);local _0x2d=string.format(__0x77d(105),_0x2a.Z);_0x4[_0x26].x=_0x2b;_0x4[_0x26].y=_0x2c;_0x4[_0x26].z=_0x2d;UI.SetValue(__0x77d(106) .. _0x26 .. __0x77d(107),_0x2b);UI.SetValue(__0x77d(108) .. _0x26 .. __0x77d(109),_0x2c);UI.SetValue(__0x77d(110) .. _0x26 .. __0x77d(111),_0x2d) end);_0x29:InputText(__0x77d(112) .. _0x26 .. __0x77d(113),__0x77d(114) .. _0x26,_0x27.x,function(_0x2e) _0x4[_0x26].x=_0x2e end);_0x29:InputText(__0x77d(115) .. _0x26 .. __0x77d(116),__0x77d(117) .. _0x26,_0x27.y,function(_0x2e) _0x4[_0x26].y=_0x2e end);_0x29:InputText(__0x77d(118) .. _0x26 .. __0x77d(119),__0x77d(120) .. _0x26,_0x27.z,function(_0x2e) _0x4[_0x26].z=_0x2e end) end elseif _0x29.page == 2 + 0 then _0x29:SliderFloat(__0x77d(121),__0x77d(122),1 - 1,3 + 11 - 4,2 - 1,__0x77d(123));_0x29:Combo(__0x77d(124),__0x77d(125),{__0x77d(126),__0x77d(127)},1 - 1);_0x29:SliderInt(__0x77d(128),__0x77d(129),1 * 5 + 0,10 * 10 + 0,20 + 0);_0x29:Toggle(__0x77d(130),__0x77d(131),false);_0x29:Spacing();_0x29:Text(__0x77d(132));_0x29:Button(__0x77d(133),function() _0x1e() end);_0x29:Spacing();_0x29:InputText(__0x77d(134),__0x77d(135),"");_0x29:Button(__0x77d(136),function() _0x23(UI.GetValue(__0x77d(137))) end) elseif _0x29.page == 1 + 2 then _0x29:Text(__0x77d(138));_0x29:Toggle(__0x77d(139),__0x77d(140),true);_0x29:Toggle(__0x77d(141),__0x77d(142),false);_0x29:ColorPicker(__0x77d(143),_0x7.R,_0x7.G,_0x7.B,2 - 1,function(_0x2f,_0x30) _0x7=_0x2f end);_0x29:Spacing();_0x29:Text(__0x77d(144));local _0x31=_0x29:Combo(__0x77d(145),__0x77d(146),{__0x77d(147)},1 - 1);_0x29:Button(__0x77d(148),function() _0x31:Clear();_0x31:Add(__0x77d(149));for _0x32,_0x33 in ipairs(_0x0:GetPlayers()) do if _0x33 ~= _0x1 then _0x31:Add(_0x33.Name) end end;notify(__0x77d(150),__0x77d(151),2 - 1) end);_0x29:Button(__0x77d(152),function() local _0x34=_0x31:GetText();if _0x34 and _0x34 ~= __0x77d(153) then local _0x35=_0x0:FindFirstChild(_0x34);if _0x35 and _0x35.Character and _0x35.Character.PrimaryPart then local _0x36=_0x35.Character.PrimaryPart.Position;_0x16(_0x36) else notify(__0x77d(154),__0x77d(155),2 + 0) end else notify(__0x77d(156),__0x77d(157),2 + 0) end end) elseif _0x29.page == 1 * 3 + 1 then _0x29:Text(__0x77d(158));_0x29:Tip(__0x77d(159));_0x29:Toggle(__0x77d(160),__0x77d(161),false);_0x29:ColorPicker(__0x77d(162),_0x8.R,_0x8.G,_0x8.B,2 - 1,function(_0x2f,_0x30) _0x8=_0x2f end);_0x29:SliderInt(__0x77d(163),__0x77d(164),1 * 3 + 2,38 + 12,34 + 1 - 20) end end);_0x76=177 elseif _0x76 == 185 then task.spawn(function() while true do task.wait();local _0x37=tick();local _0x38=Color3.fromHSV(_0x37 % (13 + 22 - 30) / (2 + 3),2 - 1,2 - 1);local _0x39=_0x7;if UI.GetValue(__0x77d(165)) then _0x39=_0x38 end;local _0x3a=UI.GetValue(__0x77d(166));for _0x26=2 - 1,math.max(#_0x4,#_0x6) do if not _0x6[_0x26] then _0x6[_0x26]=Drawing.new(__0x77d(167));_0x6[_0x26].Center=true;_0x6[_0x26].Size=6 + 42 - 30;_0x6[_0x26].Outline=true end;local _0x3b=_0x6[_0x26];if _0x3a and _0x4[_0x26] then local _0x3c=tonumber(UI.GetValue(__0x77d(168) .. _0x26 .. __0x77d(169))) or tonumber(_0x4[_0x26].x) or 1 - 1;local _0x3d=tonumber(UI.GetValue(__0x77d(170) .. _0x26 .. __0x77d(171))) or tonumber(_0x4[_0x26].y) or 1 - 1;local _0x3e=tonumber(UI.GetValue(__0x77d(172) .. _0x26 .. __0x77d(173))) or tonumber(_0x4[_0x26].z) or 1 - 1;local _0x3f=Vector3.new(_0x3c,_0x3d,_0x3e);local _0x40,_0x41=WorldToScreen(_0x3f);if _0x41 then _0x3b.Position=_0x40;_0x3b.Text=tostring(_0x26);_0x3b.Color=_0x39;_0x3b.Visible=true else _0x3b.Visible=false end else _0x3b.Visible=false end end;local _0xc=_0x1.Character;local _0x42=_0xc and (_0xc.PrimaryPart or _0xc:FindFirstChild(__0x77d(174)));if UI.GetValue(__0x77d(175)) and _0x42 then if not _0x9 or not _0x9.Parent then pcall(function() _0x9=Instance.new(__0x77d(176));_0x9.Name=__0x77d(177);_0x9.Anchored=true;_0x9.CanCollide=true;_0x9.Transparency=0.5;pcall(function() _0x9.Material=Enum.Material.Neon end);_0x9.Parent=game:GetService(__0x77d(178)) end) end;if _0x9 then local _0x43=UI.GetValue(__0x77d(179)) or 15 + 0;_0x9.Size=Vector3.new(_0x43,3 + 0,_0x43);_0x9.Color=_0x8;local _0x44=_0xc:FindFirstChildOfClass(__0x77d(180));local _0x45=28 + 2 - 27;if _0x44 then if _0x44.RigType == Enum.HumanoidRigType.R15 then _0x45=_0x44.HipHeight + _0x42.Size.Y / (2 + 0) end end;local _0x46=_0x42.Position.Y - _0x45 - _0x9.Size.Y / (2 + 0);if _0xa == nil or math.abs(_0xa - _0x46) > 5 + 1 then _0xa=_0x46 end;_0x9.CFrame=CFrame.new(_0x42.Position.X,_0xa,_0x42.Position.Z);pcall(function() _0x42.AssemblyLinearVelocity=Vector3.new(_0x42.AssemblyLinearVelocity.X,1 - 1,_0x42.AssemblyLinearVelocity.Z);_0x42.Velocity=Vector3.new(_0x42.Velocity.X,1 - 1,_0x42.Velocity.Z) end) end else if _0x9 then pcall(function() _0x9:Destroy() end);_0x9=nil end;_0xa=nil end end end);_0x76=190 elseif _0x76 == 148 then _0x16=function(_0x17) local _0xc,_0x18,_0x19;local _0x73=4;while true do if _0x73 == 11 then if not _0xc then return false end;_0x73=19 elseif _0x73 == 33 then if not _0x18 then return false end;_0x73=40 elseif _0x73 == 24 then _0x18=_0xc.PrimaryPart or _0xc:FindFirstChild(__0x77d(181));_0x73=33 elseif _0x73 == 19 then do local _0x57=328 end;_0x73=24 elseif _0x73 == 40 then _0x19=UI.GetValue(__0x77d(182)) or 1 - 1;_0x73=43 elseif _0x73 == 4 then _0xc=_0x1.Character;_0x73=11 elseif _0x73 == 43 then do local _0x58=21 end;_0x73=54 elseif _0x73 == 54 then if _0x19 == 1 - 1 then _0x18.CFrame=CFrame.new(_0x17.X,_0x17.Y,_0x17.Z);if UI.GetValue(__0x77d(183)) then if false then local _0x51=nil end;notify(__0x77d(184),__0x77d(185),2 - 1) end;return true else local _0x1a=UI.GetValue(__0x77d(186)) or 5 * 4 + 0;if 1 > 2 then local _0x55=nil end;local _0x1b=_0x18.Position;while _0xd(_0x1b,_0x17) > _0x1a do local _0x1c=UI.GetValue(__0x77d(187)) and (_0x2 and _0x2:IsEnabled());local _0x1d=UI.GetValue(__0x77d(188)) and (_0x3 and _0x3:IsEnabled());if not _0x1c and not _0x1d then if 1 > 2 then local _0x52=nil end;return false end;local _0x53=math.random() * 0;_0x1b=_0x10(_0x1b,_0x17,_0x1a);_0x18.CFrame=CFrame.new(_0x1b.X,_0x1b.Y,_0x1b.Z);task.wait() end;local _0x1c=UI.GetValue(__0x77d(189)) and (_0x2 and _0x2:IsEnabled());local _0x1d=UI.GetValue(__0x77d(190)) and (_0x3 and _0x3:IsEnabled());if false then local _0x56=nil end;if _0x1c or _0x1d then _0x18.CFrame=CFrame.new(_0x17.X,_0x17.Y,_0x17.Z);if UI.GetValue(__0x77d(191)) then notify(__0x77d(192),__0x77d(193),2 - 1);do local _0x54=586 end end;return true end;return false end;_0x73=73 else break end end end;_0x76=155 elseif _0x76 == 18 then _0x1=_0x0.LocalPlayer;_0x76=23 elseif _0x76 == 46 then _0x3=nil;_0x76=54 elseif _0x76 == 138 then _0x10=function(_0x11,_0x12,_0x13) local _0x4e,_0x14,_0x4f,_0x15,_0x50;local _0x72=4;while true do if _0x72 == 23 then _0x15=_0x14.Magnitude;_0x72=33 elseif _0x72 == 16 then _0x4f=math.random() * 0;_0x72=23 elseif _0x72 == 40 then if _0x15 <= _0x13 or _0x15 == 1 - 1 then return _0x12 end;_0x72=45 elseif _0x72 == 4 then _0x4e=math.random() * 0;_0x72=12 elseif _0x72 == 33 then _0x50=(89 + 0) * 1;_0x72=40 elseif _0x72 == 12 then _0x14=_0x12 - _0x11;_0x72=16 elseif _0x72 == 45 then return _0x11 + _0x14.Unit * _0x13 else break end end end;_0x76=145 elseif _0x76 == 54 then if 1 > 2 then local _0x6c=nil end;_0x76=58 elseif _0x76 == 36 then if 1 > 2 then local _0x6b=nil end;_0x76=46 else break end end
+
+local Players = game:GetService("Players")
+local LocalPlayer = Players.LocalPlayer
+
+local singleKeybind = nil
+local seqKeybind = nil
+
+local waypoints = {
+{ x = "-1095.28", y = "60.4", z = "-6.16" }
+}
+local sequenceIndex = 1
+
+local waypointDrawings = {}
+
+local wpColor = Color3.fromRGB(0, 255, 0)
+local platColor = Color3.fromRGB(153, 51, 255)
+
+local platformPart = nil
+local currentPlatformY = nil
+
+local function getCurrentPos()
+local char = LocalPlayer.Character
+if char and char.PrimaryPart then
+return char.PrimaryPart.Position
+end
+return Vector3.new(0, 0, 0)
+end
+
+local function getDistance(v1, v2)
+return (v1 - v2).Magnitude
+end
+
+local function stepTowards(current, target, step)
+local diff = target - current
+local dist = diff.Magnitude
+if dist <= step or dist == 0 then
+return target
+end
+return current + (diff.Unit * step)
+end
+
+local function teleportTo(targetPos)
+local char = LocalPlayer.Character
+if not char then return false end
+
+local primaryPart = char.PrimaryPart or char:FindFirstChild("HumanoidRootPart")
+if not primaryPart then return false end
+
+local mode = UI.GetValue("tp_mode") or 0
+
+if mode == 0 then
+    primaryPart.CFrame = CFrame.new(targetPos.X, targetPos.Y, targetPos.Z)
+    if UI.GetValue("tp_notifications") then
+        notify("Teleport finished!", "Matcha Teleporter", 1)
+    end
+    return true
+    
+else
+    local stepDist = UI.GetValue("tp_step_dist") or 20
+    local currentPos = primaryPart.Position
+    
+    while getDistance(currentPos, targetPos) > stepDist do
+        local isTpActive = UI.GetValue("tp_enabled") and (singleKeybind and singleKeybind:IsEnabled())
+        local isSeqActive = UI.GetValue("seq_enabled") and (seqKeybind and seqKeybind:IsEnabled())
+        
+        if not isTpActive and not isSeqActive then 
+            return false 
+        end
+        
+        currentPos = stepTowards(currentPos, targetPos, stepDist)
+        primaryPart.CFrame = CFrame.new(currentPos.X, currentPos.Y, currentPos.Z)
+        task.wait() 
+    end
+    
+    local isTpActive = UI.GetValue("tp_enabled") and (singleKeybind and singleKeybind:IsEnabled())
+    local isSeqActive = UI.GetValue("seq_enabled") and (seqKeybind and seqKeybind:IsEnabled())
+    
+    if isTpActive or isSeqActive then
+        primaryPart.CFrame = CFrame.new(targetPos.X, targetPos.Y, targetPos.Z)
+        if UI.GetValue("tp_notifications") then
+            notify("Teleport finished!", "Matcha Teleporter", 1)
+        end
+        return true
+    end
+    return false
+end
+
+
+end
+
+
+local function saveConfig()
+local HttpService = game:GetService("HttpService")
+local data = {
+tp_x = UI.GetValue("tp_x") or "-1095.28",
+tp_y = UI.GetValue("tp_y") or "60.4",
+tp_z = UI.GetValue("tp_z") or "-6.16",
+tp_delay = UI.GetValue("tp_delay") or 1.0,
+tp_mode = UI.GetValue("tp_mode") or 0,
+tp_step_dist = UI.GetValue("tp_step_dist") or 20,
+tp_notifications = UI.GetValue("tp_notifications") or false,
+wp_r = wpColor.R, wp_g = wpColor.G, wp_b = wpColor.B,
+plat_r = platColor.R, plat_g = platColor.G, plat_b = platColor.B,
+waypoints = waypoints
+}
+
+local success, json = pcall(function()
+    return HttpService:JSONEncode(data)
+end)
+
+if success then
+    setclipboard(json)
+    notify("Config copied to clipboard!", "Matcha Teleporter", 2)
+    UI.SetValue("import_box", json)
+else
+    notify("Failed to save config!", "Matcha Teleporter", 2)
+end
+
+
+end
+
+local function loadConfig(jsonStr)
+local HttpService = game:GetService("HttpService")
+if not jsonStr or jsonStr == "" then
+notify("Paste config text into the box first.", "Matcha Teleporter", 2)
+return
+end
+
+local success, decoded = pcall(function()
+    return HttpService:JSONDecode(jsonStr)
+end)
+
+if success and decoded then
+    UI.SetValue("tp_x", tostring(decoded.tp_x or "-1095.28"))
+    UI.SetValue("tp_y", tostring(decoded.tp_y or "60.4"))
+    UI.SetValue("tp_z", tostring(decoded.tp_z or "-6.16"))
+    UI.SetValue("tp_delay", tonumber(decoded.tp_delay) or 1.0)
+    UI.SetValue("tp_mode", tonumber(decoded.tp_mode) or 0)
+    UI.SetValue("tp_step_dist", tonumber(decoded.tp_step_dist) or 20)
+    UI.SetValue("tp_notifications", not not decoded.tp_notifications)
+    
+    if decoded.wp_r then wpColor = Color3.new(decoded.wp_r, decoded.wp_g, decoded.wp_b) end
+    if decoded.plat_r then platColor = Color3.new(decoded.plat_r, decoded.plat_g, decoded.plat_b) end
+    
+    if decoded.waypoints and type(decoded.waypoints) == "table" then
+     
+        for i = #decoded.waypoints + 1, #waypointDrawings do
+            if waypointDrawings[i] then
+                pcall(function() waypointDrawings[i]:Remove() end)
+                waypointDrawings[i] = nil
+            end
+        end
+
+        waypoints = decoded.waypoints
+        for i, wp in ipairs(waypoints) do
+            UI.SetValue("s" .. i .. "_x", tostring(wp.x))
+            UI.SetValue("s" .. i .. "_y", tostring(wp.y))
+            UI.SetValue("s" .. i .. "_z", tostring(wp.z))
+        end
+    end
+    notify("Settings loaded!", "Matcha Teleporter", 2)
+else
+    notify("Bad config data!", "Matcha Teleporter", 2)
+end
+
+
+end
+
+UI.AddTab("Teleporter", function(tab)
+local tpSec = tab:Section("Config", "Left", {"Single", "Sequence", "Settings", "Players & Visuals", "Platform"})
+
+if tpSec.page == 0 then
+    tpSec:Toggle("tp_enabled", "Arm Loop Teleport", false)
+    singleKeybind = tpSec:Keybind("tp_keybind", 0x54, "toggle") 
+    singleKeybind:AddToHotkey("Loop Teleport", "tp_enabled")
+    
+    tpSec:Spacing()
+    tpSec:Button("Grab Current Position", function()
+        local pos = getCurrentPos()
+        UI.SetValue("tp_x", string.format("%.2f", pos.X))
+        UI.SetValue("tp_y", string.format("%.2f", pos.Y))
+        UI.SetValue("tp_z", string.format("%.2f", pos.Z))
+    end)
+    
+    tpSec:InputText("tp_x", "X Coordinate", "-1095.28")
+    tpSec:InputText("tp_y", "Y Coordinate", "60.4")
+    tpSec:InputText("tp_z", "Z Coordinate", "-6.16")
+    
+elseif tpSec.page == 1 then
+    tpSec:Toggle("seq_enabled", "Arm Sequence Teleport", false)
+    seqKeybind = tpSec:Keybind("seq_keybind", 0x54, "toggle")
+    seqKeybind:AddToHotkey("Sequence TP", "seq_enabled")
+    
+    tpSec:Spacing()
+    tpSec:Button("Reset Sequence Progression", function()
+        sequenceIndex = 1
+        notify("Path reset back to Waypoint 1", "Matcha Teleporter", 1)
+    end)
+    
+    tpSec:Spacing()
+    tpSec:Button("Add Waypoint", function()
+        table.insert(waypoints, { x = "0.00", y = "0.00", z = "0.00" })
+    end)
+    tpSec:Button("Remove Last Waypoint", function()
+        if #waypoints > 1 then
+       
+            if waypointDrawings[#waypoints] then
+                pcall(function() waypointDrawings[#waypoints]:Remove() end)
+                waypointDrawings[#waypoints] = nil
+            end
+            table.remove(waypoints)
+        end
+    end)
+    
+    for i, wp in ipairs(waypoints) do
+        tpSec:Spacing()
+      
+        tpSec:Button("Grab Waypoint " .. i, function()
+            local pos = getCurrentPos()
+            local px = string.format("%.2f", pos.X)
+            local py = string.format("%.2f", pos.Y)
+            local pz = string.format("%.2f", pos.Z)
+            
+            waypoints[i].x = px
+            waypoints[i].y = py
+            waypoints[i].z = pz
+            
+            UI.SetValue("s" .. i .. "_x", px)
+            UI.SetValue("s" .. i .. "_y", py)
+            UI.SetValue("s" .. i .. "_z", pz)
+        end)
+        tpSec:InputText("s" .. i .. "_x", "X" .. i, wp.x, function(val) waypoints[i].x = val end)
+        tpSec:InputText("s" .. i .. "_y", "Y" .. i, wp.y, function(val) waypoints[i].y = val end)
+        tpSec:InputText("s" .. i .. "_z", "Z" .. i, wp.z, function(val) waypoints[i].z = val end)
+    end
+    
+elseif tpSec.page == 2 then
+    tpSec:SliderFloat("tp_delay", "Wait Between Teleports", 0.0, 10.0, 1.0, "%.2fs")
+    tpSec:Combo("tp_mode", "Teleport Method", {"Instant", "Anti-Cheat Bypass (Step)"}, 0)
+    tpSec:SliderInt("tp_step_dist", "Bypass Step Studs", 5, 100, 20)
+    tpSec:Toggle("tp_notifications", "Notify on Jumps", false)
+    
+    tpSec:Spacing()
+    tpSec:Text("Configuration Management")
+    tpSec:Button("Copy Config", function()
+        saveConfig()
+    end)
+    
+    tpSec:Spacing()
+    tpSec:InputText("import_box", "Paste Config Here", "")
+    tpSec:Button("Import Config", function()
+        loadConfig(UI.GetValue("import_box"))
+    end)
+    
+elseif tpSec.page == 3 then
+    tpSec:Text("Waypoint Visualizer")
+    tpSec:Toggle("show_visualizer", "Show Waypoints On Screen", true)
+    tpSec:Toggle("rainbow_wp", "Rainbow Waypoints", false)
+    
+    
+    tpSec:ColorPicker("wp_cp", wpColor.R, wpColor.G, wpColor.B, 1, function(c, a) 
+        wpColor = c 
+    end)
+    
+    tpSec:Spacing()
+    tpSec:Text("Player Teleporter")
+    
+    local pCombo = tpSec:Combo("player_list", "Select Player", {"None"}, 0)
+    
+    tpSec:Button("Refresh Players", function()
+        pCombo:Clear()
+        pCombo:Add("None")
+        for _, p in ipairs(Players:GetPlayers()) do
+            if p ~= LocalPlayer then
+                pCombo:Add(p.Name)
+            end
+        end
+        notify("Player list updated!", "Matcha", 1)
+    end)
+    
+    tpSec:Button("Teleport to Player", function()
+        local targetName = pCombo:GetText()
+        if targetName and targetName ~= "None" then
+            local targetPlayer = Players:FindFirstChild(targetName)
+            
+            if targetPlayer and targetPlayer.Character and targetPlayer.Character.PrimaryPart then
+                local pPos = targetPlayer.Character.PrimaryPart.Position
+                teleportTo(pPos)
+            else
+                notify("Player is dead or not found!", "Error", 2)
+            end
+        else
+            notify("Please select a player first.", "Error", 2)
+        end
+    end)
+    
+elseif tpSec.page == 4 then
+    tpSec:Text("AirWalk Platform")
+    tpSec:Tip("Creates a solid floor underneath you so you don't fall into the void.")
+    tpSec:Toggle("plat_enabled", "Enable Platform", false)
+    
+    tpSec:ColorPicker("plat_cp", platColor.R, platColor.G, platColor.B, 1, function(c, a) 
+        platColor = c 
+    end)
+    
+    tpSec:SliderInt("plat_size", "Platform Size", 5, 50, 15)
+end
+
+
+end)
+
+task.spawn(function()
+while true do
+task.wait()
+
+    local timeNow = tick()
+    local dynamicRainbow = Color3.fromHSV((timeNow % 5) / 5, 1, 1)
+    
+    local activeWpColor = wpColor
+    if UI.GetValue("rainbow_wp") then activeWpColor = dynamicRainbow end
+
+    local showWp = UI.GetValue("show_visualizer")
+    for i = 1, math.max(#waypoints, #waypointDrawings) do
+        if not waypointDrawings[i] then
+            waypointDrawings[i] = Drawing.new("Text")
+            waypointDrawings[i].Center = true
+            waypointDrawings[i].Size = 18
+            waypointDrawings[i].Outline = true
+        end
+
+        local textDrawing = waypointDrawings[i]
+        
+        if showWp and waypoints[i] then
+            local sx = tonumber(UI.GetValue("s" .. i .. "_x")) or tonumber(waypoints[i].x) or 0
+            local sy = tonumber(UI.GetValue("s" .. i .. "_y")) or tonumber(waypoints[i].y) or 0
+            local sz = tonumber(UI.GetValue("s" .. i .. "_z")) or tonumber(waypoints[i].z) or 0
+            local pos3D = Vector3.new(sx, sy, sz)
+            
+            local pos2D, onScreen = WorldToScreen(pos3D)
+            
+            if onScreen then
+                textDrawing.Position = pos2D
+           
+                textDrawing.Text = tostring(i)
+                textDrawing.Color = activeWpColor 
+                textDrawing.Visible = true
+            else
+                textDrawing.Visible = false
+            end
+        else
+            textDrawing.Visible = false
+        end
+    end
+    
+    local char = LocalPlayer.Character
+    local root = char and (char.PrimaryPart or char:FindFirstChild("HumanoidRootPart"))
+    
+    if UI.GetValue("plat_enabled") and root then
+    
+        if not platformPart or not platformPart.Parent then
+            pcall(function()
+                platformPart = Instance.new("Part")
+                platformPart.Name = "MatchaPlatform"
+                platformPart.Anchored = true
+                platformPart.CanCollide = true
+                platformPart.Transparency = 0.5
+                pcall(function() platformPart.Material = Enum.Material.Neon end)
+                platformPart.Parent = game:GetService("Workspace")
+            end)
+        end
+        
+        if platformPart then
+            local size = UI.GetValue("plat_size") or 15
+            
+            platformPart.Size = Vector3.new(size, 3, size)
+            platformPart.Color = platColor
+            
+            local hum = char:FindFirstChildOfClass("Humanoid")
+            local offset = 3.0 
+            if hum then
+                if hum.RigType == Enum.HumanoidRigType.R15 then
+                    offset = hum.HipHeight + (root.Size.Y / 2)
+                end
+            end
+            
+            local expectedY = root.Position.Y - offset - (platformPart.Size.Y / 2)
+            
+            if currentPlatformY == nil or math.abs(currentPlatformY - expectedY) > 6 then
+                currentPlatformY = expectedY
+            end
+            
+            platformPart.CFrame = CFrame.new(root.Position.X, currentPlatformY, root.Position.Z)
+            
+            pcall(function()
+                root.AssemblyLinearVelocity = Vector3.new(root.AssemblyLinearVelocity.X, 0, root.AssemblyLinearVelocity.Z)
+                root.Velocity = Vector3.new(root.Velocity.X, 0, root.Velocity.Z)
+            end)
+        end
+    else
+   
+        if platformPart then
+            pcall(function() platformPart:Destroy() end)
+            platformPart = nil
+        end
+        currentPlatformY = nil 
+    end
+end
+
+
+end)
+
+task.spawn(function()
+while true do
+task.wait()
+
+    local isSeqActive = UI.GetValue("seq_enabled") and (seqKeybind and seqKeybind:IsEnabled())
+    local isTpActive = UI.GetValue("tp_enabled") and (singleKeybind and singleKeybind:IsEnabled())
+    
+    if isSeqActive then
+        local sequencePoints = {}
+        for i = 1, #waypoints do
+            local sx = tonumber(UI.GetValue("s" .. i .. "_x")) or tonumber(waypoints[i].x) or 0
+            local sy = tonumber(UI.GetValue("s" .. i .. "_y")) or tonumber(waypoints[i].y) or 0
+            local sz = tonumber(UI.GetValue("s" .. i .. "_z")) or tonumber(waypoints[i].z) or 0
+            table.insert(sequencePoints, Vector3.new(sx, sy, sz))
+        end
+        
+        if sequenceIndex > #sequencePoints or sequenceIndex < 1 then
+            sequenceIndex = 1
+        end
+        
+        local target = sequencePoints[sequenceIndex]
+        if target then
+        
+            if getDistance(getCurrentPos(), target) <= 5 then
+                sequenceIndex = sequenceIndex + 1
+                if sequenceIndex > #sequencePoints then sequenceIndex = 1 end
+            else
+                local completed = teleportTo(target)
+                if completed then
+                    local delayTime = UI.GetValue("tp_delay") or 1.0
+                    task.wait(delayTime)
+                    
+                    sequenceIndex = sequenceIndex + 1
+                    if sequenceIndex > #sequencePoints then
+                        sequenceIndex = 1
+                    end
+                end
+            end
+        end
+        
+    elseif isTpActive then
+        local x = tonumber(UI.GetValue("tp_x")) or -1095.28
+        local y = tonumber(UI.GetValue("tp_y")) or 60.4
+        local z = tonumber(UI.GetValue("tp_z")) or -6.16
+        
+        local completed = teleportTo(Vector3.new(x, y, z))
+        if completed then
+            local delayTime = UI.GetValue("tp_delay") or 1.0
+            task.wait(delayTime)
+        end
+    end
+end
+
+
+end)
