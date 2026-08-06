@@ -1,3 +1,9 @@
+
+
+-------------------------------------------------------------------------
+-- Made By vxa_020 --
+-------------------------------------------------------------------------
+
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 local UIS = game:GetService("UserInputService")
@@ -222,4 +228,4 @@ _G.BBAP_stop = function()
   for _, d in ipairs(D) do d:Remove() end
   _G.BBAP_stop = nil
 end
-print("BB AUTO PARRY LOADED")
+print("BB AUTO PARRY LOADED - lead-based timing")
