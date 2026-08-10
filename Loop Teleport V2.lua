@@ -1,5 +1,3 @@
--- Made by VxA_020
-
 local Players = game:GetService("Players")
 local HttpService = game:GetService("HttpService")
 local Workspace = game:GetService("Workspace")
